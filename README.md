@@ -225,4 +225,4 @@ Sara Kolas
 
 DevSecOps CI Pipeline Implementation
 
-Testing Jenkins identity validation
+Testing Jenkins pipeline from local machine
