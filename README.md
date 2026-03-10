@@ -225,4 +225,5 @@ Sara Kolas
 
 DevSecOps CI Pipeline Implementation
 
-Testing Jenkins pipeline from local machine
+Triggering Jenkins pipeline test
+
