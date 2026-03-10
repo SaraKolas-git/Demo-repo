@@ -218,4 +218,5 @@ This approach follows **DevSecOps best practices** by integrating security direc
 ## Author
 
 Sara Kolas
+
 DevSecOps CI Pipeline Implementation
