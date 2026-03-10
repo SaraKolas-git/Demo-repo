@@ -12,12 +12,16 @@ The goal is to ensure that only **authorized developers with valid identities** 
 
 GitHub Repository
 ⬇
+
 Jenkins CI Pipeline (Docker)
 ⬇
+
 Commit Identity Validation
 ⬇
+
 SonarQube Static Code Analysis
 ⬇
+
 Quality Gate Enforcement
 
 ---
