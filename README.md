@@ -224,6 +224,3 @@ This approach follows **DevSecOps best practices** by integrating security direc
 Sara Kolas
 
 DevSecOps CI Pipeline Implementation
-
-Triggering Jenkins pipeline test
-
