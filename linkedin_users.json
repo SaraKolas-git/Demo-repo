@@ -1,0 +1,12 @@
+{
+  "users": [
+    {
+      "email": "Sara.Kolas@optimumdataanalytics.com",
+      "connections": 600,
+      "experience": 4,
+      "skills": 6,
+      "certifications": 2,
+      "activity": "high"
+    }
+  ]
+}
